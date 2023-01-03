@@ -14,7 +14,7 @@
 
 ## ✒️ Autores
 
-Projeto feito por Gabriele Xavier com base em tutorial do curso Desenvolvimento Web Full Stack do Programador BR.
+Projeto feito por Gabriele Xavier com base em tutorial do curso Desenvolvimento Web Full Stack do site Programador BR.
 
 <table>
   <tr>
